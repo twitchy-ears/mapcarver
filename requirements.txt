@@ -1,0 +1,19 @@
+-i https://pypi.org/simple
+beautifulsoup4==4.12.3; python_full_version >= '3.6.0'
+certifi==2024.12.14; python_version >= '3.6'
+charset-normalizer==3.4.1; python_version >= '3.7'
+configargparse==1.7; python_version >= '3.5'
+idna==3.10; python_version >= '3.6'
+mediawikiapi==1.2; python_version >= '3.7' and python_version < '4.0'
+mwclient==0.11.0
+mwparserfromhell==0.6.6; python_version >= '3.8'
+oauthlib==3.2.2; python_version >= '3.6'
+packaging==24.2; python_version >= '3.8'
+pillow==11.0.0; python_version >= '3.9'
+poster3==0.8.1
+pywikibot==9.6.1; python_full_version >= '3.7.0'
+requests==2.32.3; python_version >= '3.8'
+requests-oauthlib==2.0.0; python_version >= '3.4'
+soupsieve==2.6; python_version >= '3.8'
+urllib3==2.3.0; python_version >= '3.9'
+wikitools3==3.0.1; python_version >= '3.8' and python_version < '4.0'
