@@ -45,3 +45,10 @@ You can use `--wiki-skip-uploads` to just remake the pages, this enables you
 to update templates across many pages.  Keep in mind that doing this will
 remake the pages from scratch so you'll loose everything there.
 
+# Examples
+
+![Main map example](../assets/main-map-example.png?raw=true)
+![Cell page example](../assets/cell-page-example.png?raw=true)
+
+Both of these are drawn from the excellent
+[NotofThisWorld Ironsworn Map](https://notofthisworld.itch.io/ironlands-map).
